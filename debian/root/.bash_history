@@ -20,3 +20,9 @@ echo "Ntablet" > etc/hostname
 apt-get install v4l-utils
 apt-get install i2c-tools
 exit
+ls
+cd home
+ls
+passwd root
+sync
+exit
