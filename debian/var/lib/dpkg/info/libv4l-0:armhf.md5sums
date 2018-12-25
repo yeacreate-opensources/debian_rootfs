@@ -1,0 +1,14 @@
+799b1045637d61eefb4c9dc7c1a22d57  usr/lib/arm-linux-gnueabihf/libv4l/plugins/libv4l-mplane.so
+3560de9ad2e3390dd77778ba7b0815a9  usr/lib/arm-linux-gnueabihf/libv4l/v4l1compat.so
+cfca66609da6540c4cdd0ec7d3bd9dab  usr/lib/arm-linux-gnueabihf/libv4l/v4l2convert.so
+cb01aca9269e71eae313e4864d5e1eef  usr/lib/arm-linux-gnueabihf/libv4l1.so.0.0.0
+3e97537199cab9709a61a254101585be  usr/lib/arm-linux-gnueabihf/libv4l2.so.0.0.0
+b8490b6d22321b3cb75fb6dd2f40aca8  usr/share/doc/libv4l-0/README.Debian
+0fc659a18a110e95c6ff9773fc6f86d6  usr/share/doc/libv4l-0/README.gz
+b54692bec80cb41a01b9209a0b3ff995  usr/share/doc/libv4l-0/README.lib-multi-threading
+f03896322bb0a85f8708d473400978e0  usr/share/doc/libv4l-0/README.libv4l.gz
+f5c231424eb4394531115d4f28c4fe97  usr/share/doc/libv4l-0/TODO
+d5aa8244c054e3eeb22ff8f2430c20f2  usr/share/doc/libv4l-0/changelog.Debian.gz
+dfd204e417565dd7504c9ceb0135965a  usr/share/doc/libv4l-0/changelog.gz
+f5e022ccf3e8c47d818a0f45f91e8788  usr/share/doc/libv4l-0/copyright
+2e10c6da90f19068b688fd92fb5821da  usr/share/lintian/overrides/libv4l-0

@@ -1,0 +1,26 @@
+
+Start-Date: 2018-07-27  10:40:38
+Commandline: /usr/bin/apt-get install openssh-server
+Install: libxdmcp6:armhf (1:1.1.2-3, automatic), libkrb5-3:armhf (1.15-1+deb9u1, automatic), libgssapi-krb5-2:armhf (1.15-1+deb9u1, automatic), libdbus-1-3:armhf (1.10.26-0+deb9u1, automatic), dbus:armhf (1.10.26-0+deb9u1, automatic), libwrap0:armhf (7.6.q-26, automatic), openssh-sftp-server:armhf (1:7.4p1-10+deb9u3, automatic), libk5crypto3:armhf (1.15-1+deb9u1, automatic), libx11-6:armhf (2:1.6.4-3, automatic), libexpat1:armhf (2.2.0-2+deb9u1, automatic), krb5-locales:armhf (1.15-1+deb9u1, automatic), libxau6:armhf (1:1.0.8-1, automatic), libxcb1:armhf (1.12-1, automatic), libkrb5support0:armhf (1.15-1+deb9u1, automatic), tcpd:armhf (7.6.q-26, automatic), ucf:armhf (3.0036, automatic), libkeyutils1:armhf (1.5.9-9, automatic), libxmuu1:armhf (2:1.1.2-2, automatic), libpam-systemd:armhf (232-25+deb9u4, automatic), ncurses-term:armhf (6.0+20161126-1+deb9u2, automatic), openssh-server:armhf (1:7.4p1-10+deb9u3), libx11-data:armhf (2:1.6.4-3, automatic), openssh-client:armhf (1:7.4p1-10+deb9u3, automatic), libedit2:armhf (3.1-20160903-3, automatic), xauth:armhf (1:1.0.9-1+b2, automatic), libxext6:armhf (2:1.3.3-1+b2, automatic)
+End-Date: 2018-07-27  10:41:31
+
+Start-Date: 2018-07-27  10:41:47
+Commandline: /usr/bin/apt-get install locales
+Install: locales:armhf (2.24-11+deb9u3), libc-l10n:armhf (2.24-11+deb9u3, automatic)
+End-Date: 2018-07-27  10:42:33
+
+Start-Date: 2018-07-27  10:44:39
+Commandline: /usr/bin/apt-get install wireless-tools wpasupplicant
+Install: libpcsclite1:armhf (1.8.20-1, automatic), libnl-genl-3-200:armhf (3.2.27-2, automatic), wireless-tools:armhf (30~pre9-12+b1), libiw30:armhf (30~pre9-12+b1, automatic), libnl-3-200:armhf (3.2.27-2, automatic), wpasupplicant:armhf (2:2.4-1+deb9u1)
+End-Date: 2018-07-27  10:44:46
+
+Start-Date: 2018-12-21  02:18:25
+Commandline: /usr/bin/apt-get install v4l-utils
+Install: v4l-utils:armhf (1.12.3-1), libv4l2rds0:armhf (1.12.3-1, automatic), libv4l-0:armhf (1.12.3-1, automatic), libv4lconvert0:armhf (1.12.3-1, automatic), libjpeg62-turbo:armhf (1:1.5.1-2, automatic)
+End-Date: 2018-12-21  02:18:30
+
+Start-Date: 2018-12-21  02:21:50
+Commandline: /usr/bin/apt-get install i2c-tools
+Install: rename:armhf (0.20-4, automatic), perl-modules-5.24:armhf (5.24.1-3+deb9u5, automatic), read-edid:armhf (3.0.2-1+b1, automatic), libperl5.24:armhf (5.24.1-3+deb9u5, automatic), perl:armhf (5.24.1-3+deb9u5, automatic), i2c-tools:armhf (3.1.2-3)
+Upgrade: perl-base:armhf (5.24.1-3+deb9u4, 5.24.1-3+deb9u5)
+End-Date: 2018-12-21  02:22:08
