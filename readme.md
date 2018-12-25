@@ -3,7 +3,7 @@ Default user:root
 Default password:1234
 
 
-### 先在本地弄出一个文件夹###
+### 先在本地弄出一个文件夹 ###
 执行下面的命令：
 ```bash
 #debootstrap --verbose --arch=armhf --foreign stretch debian http://mirrors.ustc.edu.cn/debian/
